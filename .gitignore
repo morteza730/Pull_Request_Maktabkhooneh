@@ -1,1 +1,8 @@
+# screen-shots are stored in the src folder. they are only needed for the Maktabkhooneh reviewer.
 src/
+
+# project standard files and folders
+build/
+*.user*
+moc_*
+
